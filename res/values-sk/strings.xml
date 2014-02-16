@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">MinMinGuard</string>
-    <string name="app_version">MinMinGuard verzia: %s</string>
-    <string name="app_copyright">Copyright \u00A9 2014 by <i>Chieh-Min Wang(FatMinMin)</i></string>
+    <string name="app_name">MinMinGuard-X</string>
+    <string name="app_version">MinMinGuard-X verzia: %s</string>
+    <string name="app_copyright">Copyright \u00A9 2014 by <i>Dave Lee (camperdave) and Chieh-Min Wang(FatMinMin)</i></string>
     <string name="app_about"><b>Táto aplikácia umožňuje blokovať reklamy z viacerých sietí.
-         Ale nezabudnite občas podporiť vývojárov aplikácií vypnutím <i>MinMinGuard</i> a kliknutím na reklamy.
-         \n\nVeľa zábavy s <i>MinMinGuard</i>.</b></string>
+         Ale nezabudnite občas podporiť vývojárov aplikácií vypnutím <i>MinMinGuard-X</i> a kliknutím na reklamy.
+         \n\nVeľa zábavy s <i>MinMinGuard-X</i>.</b></string>
     
     <string name="drawer_app_settings">Nastavenia</string>
     <string name="drawer_about">O aplikácii</string>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">MinMinGuard</string>
-    <string name="app_version">MinMinGuard верзија: %s</string>
-    <string name="app_copyright">Copyright \u00A9 2014 by <i>Chieh-Min Wang(FatMinMin)</i></string>
+    <string name="app_name">MinMinGuard-X</string>
+    <string name="app_version">MinMinGuard-X верзија: %s</string>
+    <string name="app_copyright">Copyright \u00A9 2014 by <i>Dave Lee (camperdave) and Chieh-Min Wang(FatMinMin)</i></string>
     <string name="app_about"><b>Ова апликација вам омогућава да одстраните рекламе разних рекламних мрежа.
-         Ипак, подржите девелопере апликација искључивањем <i>MinMinGuard</i>-а и кликтањем на рекламе.
-         \n\nЗабавите се са <i>MinMinGuard</i>-ом.</b></string>
+         Ипак, подржите девелопере апликација искључивањем <i>MinMinGuard-X</i>-а и кликтањем на рекламе.
+         \n\nЗабавите се са <i>MinMinGuard-X</i>-ом.</b></string>
     
     <string name="drawer_app_settings">Подешавања апликације</string>
     <string name="drawer_about">О апликацији</string>

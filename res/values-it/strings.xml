@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
  
-    <string name="app_name">MinMinGuard</string>
-    <string name="app_version">MinMinGuard versione: %s</string>
-    <string name="app_copyright">Copyright \u00A9 2014 by <i>Chieh-Min Wang(FatMinMin)</i></string>
+    <string name="app_name">MinMinGuard-X</string>
+    <string name="app_version">MinMinGuard-X versione: %s</string>
+    <string name="app_copyright">Copyright \u00A9 2014 by <i>Dave Lee (camperdave) and Chieh-Min Wang(FatMinMin)</i></string>
     <string name="app_about"><b>Questa applicazione rimuove la pubblicità dalle app e durante la navigazione.
-         Ma ricorda comunque di supportare gli sviluppatori delle app disabilitando <i>MinMinGuard</i> e cliccando sui banner.
-         \n\nHave fun with <i>MinMinGuard</i>.</b></string>
+         Ma ricorda comunque di supportare gli sviluppatori delle app disabilitando <i>MinMinGuard-X</i> e cliccando sui banner.
+         \n\nHave fun with <i>MinMinGuard-X</i>.</b></string>
     
     <string name="drawer_app_settings">Impostazioni App</string>
     <string name="drawer_about">Riguardo a</string>

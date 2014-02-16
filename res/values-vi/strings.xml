@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">MinMinGuard</string>
-    <string name="app_version">MinMinGuard bản: %s</string>
-    <string name="app_copyright">Bản quyền \u00A9 2014 thuộc về <i>Chieh-Min Wang(FatMinMin)</i></string>
+    <string name="app_name">MinMinGuard-X</string>
+    <string name="app_version">MinMinGuard-X bản: %s</string>
+    <string name="app_copyright">Bản quyền \u00A9 2014 thuộc về <i>Dave Lee (camperdave) and Chieh-Min Wang(FatMinMin)</i></string>
     <string name="app_about"><b>Đây là ứng dụng để chặn quảng cáo từ nhiều nguồn khác nhau.
-         Nhưng đừng quên hỗ trợ các tác giả ứng dụng bằng cách tắt <i>MinMinGuard</i> và bấm vào quảng cáo.
-         \n\nChúc các bạn vui vẻ với <i>MinMinGuard</i>.</b></string>
+         Nhưng đừng quên hỗ trợ các tác giả ứng dụng bằng cách tắt <i>MinMinGuard-X</i> và bấm vào quảng cáo.
+         \n\nChúc các bạn vui vẻ với <i>MinMinGuard-X</i>.</b></string>
     
     <string name="drawer_app_settings">Thiết lập ứng dung</string>
     <string name="drawer_about">Giới thiệu</string>

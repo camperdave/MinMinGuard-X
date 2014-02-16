@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
  
-    <string name="app_name">MinMinGuard</string>
-    <string name="app_version">MinMinGuard versión: %s</string>
-    <string name="app_copyright">Copyright \u00A9 2014 por <i>Chieh-Min Wang(FatMinMin)</i></string>
+    <string name="app_name">MinMinGuard-X</string>
+    <string name="app_version">MinMinGuard-X versión: %s</string>
+    <string name="app_copyright">Copyright \u00A9 2014 por <i>Dave Lee (camperdave) and Chieh-Min Wang(FatMinMin)</i></string>
     <string name="app_about"><b>Esta es una aplicación para que puedas eliminar anuncios de varias redes de anuncios. 
-                Pero recomiendo apoyar a los desarrolladores de aplicaciones desactivando <i>MinMinGuard</i> y haciendo clic en los anuncios.
-         \n\nDiviértete con <i>MinMinGuard</i>.</b></string>
+                Pero recomiendo apoyar a los desarrolladores de aplicaciones desactivando <i>MinMinGuard-X</i> y haciendo clic en los anuncios.
+         \n\nDiviértete con <i>MinMinGuard-X</i>.</b></string>
     
     <string name="drawer_app_settings">Ajustes de la Aplicación</string>
     <string name="drawer_about">Acerca de</string>

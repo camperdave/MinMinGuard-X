@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
  
-	<string name="app_name">MinMinGuard</string>
-	<string name="app_version">MinMinGuard versie: %s</string>
-	<string name="app_copyright">Copyright \u00A9 2014 door <i>Chieh-Min Wang(FatMinMin)</i></string>
+	<string name="app_name">MinMinGuard-X</string>
+	<string name="app_version">MinMinGuard-X versie: %s</string>
+	<string name="app_copyright">Copyright \u00A9 2014 door <i>Dave Lee (camperdave) and Chieh-Min Wang(FatMinMin)</i></string>
 	<string name="app_about"><b>Deze app is voor u om ads te verwijderen van verschillende ad netwerken.
-	  Maar vergeet niet om de app ontwikkelaars te supporten door <i>MinMinGuard uit te schakelen</i> en op de ads te klikken.
-	  \n\nVeel plezier met <i>MinMinGuard</i>.</b></string>
+	  Maar vergeet niet om de app ontwikkelaars te supporten door <i>MinMinGuard-X uit te schakelen</i> en op de ads te klikken.
+	  \n\nVeel plezier met <i>MinMinGuard-X</i>.</b></string>
 	
 	<string name="drawer_app_settings">App Instellingen</string>
 	<string name="drawer_about">Over MinMinGuard</string>
