@@ -9,7 +9,7 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal">
         
-    	<tw.fatminmin.xposed.minminguard.ui.SearchEditText android:id="@+id/search"
+    	<com.gray101.xposed.minminguard.ui.SearchEditText android:id="@+id/search"
 	        android:layout_width="match_parent"
 	        android:layout_height="wrap_content"
 	        android:inputType="text"

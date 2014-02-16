@@ -1,8 +1,14 @@
-MinMinGuard  (Project Cancelled)
+MinMinGuard-X  (Project UN-Cancelled)
 ===========
  [XDA discussion thread](http://forum.xda-developers.com/showthread.php?p=49112940#post49112940)  
  [XDA News - Selectively Block Ads on Certain Apps with Xposed Module](http://www.xda-developers.com/android/selectively-block-ads-on-certain-apps-with-xposed-module/)   
  [Pocketables article](http://www.pocketables.com/2014/01/minminguard-xposed-framework-module-patches-ad-holes.html)
+
+What is MinMinGuard-X
+---------------------
+* This is an unofficial fork
+* Who knows how long it will be maintained... but certainly more than MinMinGuard :P
+* Awesome new features in development
 
 Disclaimer
 ----------
